@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<style>
+
+</style>
+</head>
+<body>
+<p>Merhaba!</p>
+<P color:blue;>Merhaba!</p>
+</body>
+</html>
